@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 👾 I’m currently working on my techincal skills 
-- 🧑🏻‍💻 I’m currently learning what it takes to become a Data Scientist 
-- 💻 I’m looking for help with SQL and Python
+- 👾 I’m techincal 
+- 🧑🏻‍💻 A Data Scientist 
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/nicolasangarita/ or Email: nicolas.angarita07@gmail.com
 - 🚀 Fun fact: Into Sports: especailly football & pickleball, Crypto, finance, and business
 
